@@ -1,0 +1,62 @@
+{
+  "name": "docs",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Quasar App",
+  "author": "ГРИЦТ",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "element-tiptap": "^1.27.1",
+    "element-ui": "^2.15.6",
+    "gridstack": "^4.4.1",
+    "install": "^0.13.0",
+    "jodit-vue": "^2.4.0",
+    "jquery": "^3.6.0",
+    "jquery-ui": "^1.13.0",
+    "jquery-ui-dist": "^1.13.0",
+    "jquery-ui-touch-punch": "^0.2.3",
+    "katex": "^0.15.1",
+    "mermaid": "^8.13.8",
+    "npm": "^8.3.0",
+    "prosemirror-tables": "^0.9.1",
+    "quasar": "^1.0.0",
+    "quasar-tiptap": "^1.9.1",
+    "quill": "^2.0.0-dev.3",
+    "quill-better-table": "^1.2.10",
+    "quill-table-ui": "^1.0.7",
+    "slate-vue": "^0.2.0",
+    "tiptap": "^1.32.2",
+    "tiptap-extensions": "^1.35.2",
+    "vue-codemirror": "^4.0.6",
+    "vue-draggable-resizable": "^2.3.0",
+    "vue-grid-layout": "^2.3.12",
+    "vue-moveable": "^1.8.11",
+    "vue-quill-editor": "^3.0.6",
+    "vuedraggable": "^2.24.3"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
